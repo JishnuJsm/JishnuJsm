@@ -11,7 +11,7 @@
 
 <img src="https://i.postimg.cc/tT2cLBrv/Amazon-Music-Clone.png" width="250">
 
-    ➡️ Reddit Clone (🛃Beta Version)
+    ➡️ Reddit Clone
 
   🔘 https://reddit-clone-jishnu.vercel.app/
 
